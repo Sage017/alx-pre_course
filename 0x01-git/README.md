@@ -1,1 +1,1 @@
-Folder for git project
+Folder for git project in ALX software engineering course
